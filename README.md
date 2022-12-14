@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ritik250601
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js 
-- 📫 How to reach me ...
+- 📫 How to reach me ritikchoudhary961@gmail.com
 
 <!---
 Ritik250601/Ritik250601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
